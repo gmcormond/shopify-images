@@ -1,2 +1,2 @@
 # shopify-images
-Used for reusable images for Shopify
+Used for reusable images for Shopify.
